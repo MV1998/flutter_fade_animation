@@ -6,9 +6,6 @@ Project shows the simple fade in and out animation on widget.
 
 - [Lab: Gif](https://drive.google.com/file/d/1HNGdrF4iGgeshv7ttqlTXbzO9tnhiz7v/view?usp=sharing)
 
-![alt text](https://drive.google.com/file/d/1HNGdrF4iGgeshv7ttqlTXbzO9tnhiz7v/view?usp=sharing)
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
