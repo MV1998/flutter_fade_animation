@@ -2,9 +2,9 @@
 
 Project shows the simple fade in and out animation on widget.
 
-# Example
+# Demo
 
-- [Lab: Gif](https://drive.google.com/file/d/1HNGdrF4iGgeshv7ttqlTXbzO9tnhiz7v/view?usp=sharing)
+- [Gif](https://drive.google.com/file/d/1HNGdrF4iGgeshv7ttqlTXbzO9tnhiz7v/view?usp=sharing)
 
 ## Getting Started
 
