@@ -1,4 +1,4 @@
-# flutterfadeanimation
+# Flutter Fade Animation
 
 Project shows the simple fade in and out animation on widget.
 
