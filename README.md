@@ -2,10 +2,11 @@
 
 Project shows the simple fade in and out animation on widget.
 
-# Demo
+# Screenshot and Gif
 
-- [Gif](https://drive.google.com/file/d/1HNGdrF4iGgeshv7ttqlTXbzO9tnhiz7v/view?usp=sharing)
-- [Image]<img src="assets/images/fade_animation.jpg" height="300em" />
+<img src="assets/images/fade_animation.jpg" height="300em" />
+
+- [Click here to see Gif](https://drive.google.com/file/d/1HNGdrF4iGgeshv7ttqlTXbzO9tnhiz7v/view?usp=sharing)
 
 ## Getting Started
 
