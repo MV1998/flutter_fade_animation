@@ -5,7 +5,7 @@ Project shows the simple fade in and out animation on widget.
 # Demo
 
 - [Gif](https://drive.google.com/file/d/1HNGdrF4iGgeshv7ttqlTXbzO9tnhiz7v/view?usp=sharing)
-
+- [IMAGE](https://github.com/MV1998/flutter_fade_animation/blob/master/assets/images/fade_animation.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
