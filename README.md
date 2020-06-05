@@ -6,6 +6,10 @@ Project shows the simple fade in and out animation on widget.
 
 - [Lab: Gif](https://drive.google.com/file/d/1HNGdrF4iGgeshv7ttqlTXbzO9tnhiz7v/view?usp=sharing)
 
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
